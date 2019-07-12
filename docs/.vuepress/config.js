@@ -17,7 +17,7 @@ module.exports = {
     ['meta', { property: 'og:site_name', content: 'pristine.builders' }],
     ['meta', { property: 'og:description', content: 'The Pristine Suite' }],
     ['meta', { property: 'og:url', content: 'https://pristine.builders' }],
-    ['meta', { property: 'og:image', content: 'logo2' }],
+    ['meta', { property: 'og:image', content: 'https://github.com/etclabscore/pristine-media-assets/blob/master/pristine-logo/pristine-logo%20(PNG)/256x256.png?raw=true' }],
     ['script', { async: true, defer: true, src: 'https://cdn.jsdelivr.net/npm/@widgetbot/crate@3' },
     `
       new Crate({
