@@ -5,7 +5,7 @@ RED="\033[0;31m"
 NC="\033[0m" # No Color
 defaultWebsiteName="pristine.builders"
 defaultName="Pristine"
-defaultLower="jade"
+defaultLower="pristine"
 defaultLightLogo="logo1"
 defaultDarkLogo="logo2"
 
@@ -46,6 +46,8 @@ echo ""
 grep -rl "${defaultWebsiteName}" . --exclude-dir "node_modules" --exclude-dir=".pristine" | xargs sed -i "" -e "s~${defaultWebsiteName}~${websiteName}~g"
 
 grep -rl "${defaultName}" . --exclude-dir "node_modules" --exclude-dir=".pristine" | xargs sed -i "" -e "s~${defaultName}~${name}~g"
+
+grep -rl "${nameLower}" . --exclude-dir "node_modules" --exclude-dir=".pristine" | xargs sed -i "" -e "s~${defaultNameLower}~${nameLower}~g"
 
 grep -rl "${defaultDarkLogo}" . --exclude-dir "node_modules" --exclude-dir=".pristine" | xargs sed -i "" -e "s~${defaultDarkLogo}~${darkLogo}~g"
 
