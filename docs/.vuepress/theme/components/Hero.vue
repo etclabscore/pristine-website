@@ -2,18 +2,18 @@
   <div class="hero relative content-block">
     <div class="hero-image">
       <img
-        alt="Ethereum.org Hero Image"
+        alt="Hero Image"
         class="hide-dark"
         width="auto"
         height="auto"
-        src="LIGHT_LOGO_URL"
+        src="https://github.com/etclabscore/pristine-media-assets/blob/master/pristine-logo/pristine-logo%20(PNG)/256x256.png?raw=true"
       />
       <img
-        alt="Ethereum.org Hero Image - Dark"
+        alt="Hero Image - Dark"
         class="show-dark"
         width="auto"
         height="auto"
-        src="DARK_LOGO_URL"
+        src="logo2"
       />
     </div>
   </div>

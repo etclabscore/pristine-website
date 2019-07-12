@@ -3,7 +3,14 @@ title: "pristine.builders | A suite of tools for peer-to-peer decentralized appl
 date: May 20, 2019
 sidebar: false
 ---
-<div class="center">The goal of Pristine is to provide a suite of tools to enable the creation of truly peer-to-peer applications on top of EVM-based blockchains like Ethereum Classic.</div>
+<div class="center">
+<p>
+Pristine is an open source repository in its original condition.
+</p>
+<p>
+There are a lack of repositories to start from to build community driven open source projects. Pristine is a starting point, it follows a Documentation Driven Development approach, and can be used as a resource to augment existing documentation.
+</p>
+</div>
 
 <div class="intro-blocks">
 

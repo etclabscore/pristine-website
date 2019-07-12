@@ -11,7 +11,7 @@ sidebarDepth: 0
 
 Here are some excellent starting points for some of the inspirations for Pristine:
 - [opensource.guide](https://opensource.guide/)
-- [Readme driven development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html) **August 23, 10 - Tom Preston-Werner**
+- [Readme driven development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html) **August 23, 2010 - Tom Preston-Werner**
 - [Hammock Driven Development](https://www.youtube.com/watch?v=f84n5oFoZBc) **December 16, 2012 - Rich Hickey**
 - [pengwynn/flint](https://github.com/pengwynn/flint)
 - [Choose A License](http://choosealicense.com/)

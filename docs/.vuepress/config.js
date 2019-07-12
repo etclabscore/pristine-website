@@ -17,12 +17,12 @@ module.exports = {
     ['meta', { property: 'og:site_name', content: 'pristine.builders' }],
     ['meta', { property: 'og:description', content: 'The Pristine Suite' }],
     ['meta', { property: 'og:url', content: 'https://pristine.builders' }],
-    ['meta', { property: 'og:image', content: 'DARK_LOGO_URL' }],
+    ['meta', { property: 'og:image', content: 'logo2' }],
     ['script', { async: true, defer: true, src: 'https://cdn.jsdelivr.net/npm/@widgetbot/crate@3' },
     `
       new Crate({
         server: '538420083614023710',
-        channel: '545729672143699968',
+        channel: '595472895199805461',
         shard: 'https://disweb.deploys.io'
       })
     `]

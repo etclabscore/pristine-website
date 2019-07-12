@@ -1,9 +1,7 @@
 <template>
   <footer class="footer">
     <ul>
-      <li><a href="https://github.com/etclabscore/jade-explorer/" target="_blank">Explorer</a></li>
-      <li><a href="https://github.com/etclabscore/jade-service-runner" target="_blank">Service Runner</a></li>
-      <li><a href="https://github.com/etclabscore/jade" target="_blank">GitHub</a></li>
+      <li><a href="https://github.com/etclabscore/pristine/" target="_blank">Github</a></li>
       <li><a href="https://discord.gg/rsQ4esV" target="_blank">Discord</a></li>
     </ul>
   </footer>
