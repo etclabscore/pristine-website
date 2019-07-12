@@ -55,7 +55,7 @@ A Pristine starting point for typescript react projects
 
 # Pristine Typescript React Jade
 
-A Pristine starting point for typescript react projects ontop of the [Jade Suite](https://jade.builders)
+A Pristine starting point for typescript react projects ontop of the [Pristine Suite](https://pristine.builders)
 
 - Auto connect to [Jade Service Runner](https://github.com/etclabscore/jade-service-runner) to ensure `multi-geth` is running.
 - Hooks

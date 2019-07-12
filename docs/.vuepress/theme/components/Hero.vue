@@ -6,14 +6,14 @@
         class="hide-dark"
         width="auto"
         height="auto"
-        src="https://raw.githubusercontent.com/etclabscore/jade-media-assets/master/jade-logo-light/jade-logo-light%20(PNG)/256x256.png"
+        src="LIGHT_LOGO_URL"
       />
       <img
         alt="Ethereum.org Hero Image - Dark"
         class="show-dark"
         width="auto"
         height="auto"
-        src="https://raw.githubusercontent.com/etclabscore/jade-media-assets/master/jade-logo-dark/jade-logo-dark%20(PNG)/256x256.png"
+        src="DARK_LOGO_URL"
       />
     </div>
   </div>

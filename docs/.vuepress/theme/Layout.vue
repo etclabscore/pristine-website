@@ -36,7 +36,7 @@
     },
     computed: {
       isLanding() {
-        return this.$page.title.includes("jade.builders");
+        return this.$page.title.includes("pristine.builders");
       },
       isRelaunch() {
         return this.$page.path === "/relaunch.html"

@@ -5,8 +5,8 @@ RED="\033[0;31m"
 NC="\033[0m" # No Color
 defaultWebsiteName="pristine.builders"
 defaultName="Pristine"
-defaultLightLogo="https://raw.githubusercontent.com/etclabscore/jade-media-assets/master/jade-logo-light/jade-logo-light%20(PNG)/256x256.png"
-defaultDarkLogo="https://raw.githubusercontent.com/etclabscore/jade-media-assets/master/jade-logo-dark/jade-logo-dark%20(PNG)/256x256.png"
+defaultLightLogo="LIGHT_LOGO_URL"
+defaultDarkLogo="DARK_LOGO_URL"
 
 echo ""
 echo "💎  Welcome Pristine Website Post-Install setup! 💎"
@@ -36,14 +36,14 @@ read darkLogo
 echo ""
 
 # using ~ in place of / to avoid slashes in package names conflicting with sed
-find ./docs/**/* -type f -exec sed -i "" -e "s~${defaultWebsiteName}~${websiteName}~g" {} \;
-find ./docs/**/* -type f -exec sed -i "" -e "s~${defaultName}~${name}~g" {} \;
+grep -rl "${defaultWebsiteName}" docs | xargs sed -i "" -e "s~${defaultWebsiteName}~${websiteName}~g"
+grep -rl "${defaultName}" docs | xargs sed -i "" -e "s~${defaultName}~${name}~g"
 
 sed -i  "" -e "s~${defaultWebsiteName}~${websiteName}~g" README.md
 sed -i  "" -e "s~${defaultName}~${name}~g" README.md
 
-find ./docs/**/* -type f -exec sed -i "" -e "s~${defaultDarkLogo}~${darkLogo}~g" {} \;
-find ./docs/**/* -type f -exec sed -i "" -e "s~${defaultLightLogo}~${lightLogo}~g" {} \;
+grep -rl "${defaultDarkLogo}" docs | xargs sed -i "" -e "s~${defaultDarkLogo}~${darkLogo}~g"
+grep -rl "${defaultLightLogo}" docs | xargs sed -i "" -e "s~${defaultLightLogo}~${lightLogo}~g"
 
 echo -e "${BLUE} 🚀  Project Setup Completed. 🚀"
 

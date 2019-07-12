@@ -1,9 +1,9 @@
 ---
-title: "jade.builders | A suite of tools for peer-to-peer decentralized applications"
+title: "pristine.builders | A suite of tools for peer-to-peer decentralized applications"
 date: May 20, 2019
 sidebar: false
 ---
-<div class="center">The goal of Jade is to provide a suite of tools to enable the creation of truly peer-to-peer applications on top of EVM-based blockchains like Ethereum Classic.</div>
+<div class="center">The goal of Pristine is to provide a suite of tools to enable the creation of truly peer-to-peer applications on top of EVM-based blockchains like Ethereum Classic.</div>
 
 <div class="intro-blocks">
 
@@ -11,8 +11,8 @@ sidebar: false
 
   <ul>
     <li><span class="arrow">→</span>Beginners</li>
-    <li class="highlight">Completely new to Jade?</li>
-    <li>What is Jade?</li>
+    <li class="highlight">Completely new to Pristine?</li>
+    <li>What is Pristine?</li>
     <li>Why should I care?</li>
   </ul>
 
@@ -22,7 +22,7 @@ sidebar: false
 
   <ul>
     <li><span class="arrow">→</span>Use</li>
-    <li>What can I do with Jade today?</li>
+    <li>What can I do with Pristine today?</li>
   </ul>
 
   </router-link>
@@ -32,7 +32,7 @@ sidebar: false
   <ul>
     <li><span class="arrow">→</span>Learn</li>
     <li>Beginner resources</li>
-    <li>How Jade works</li>
+    <li>How Pristine works</li>
   </ul>
 
   </router-link>
