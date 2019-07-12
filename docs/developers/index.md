@@ -1,5 +1,5 @@
 ---
-title: Jade Development | Developer guides, resources, and tools for building on Jade
+title: Pristine Development | Developer guides, resources, and tools for building on Pristine
 lang: en-US
 sidebar: auto
 sidebarDepth: 0
@@ -7,41 +7,86 @@ sidebarDepth: 0
 
 # Developer Resources
 
-<div class="featured">Guides, resources, and tools for developers building on Jade.</div>
+<div class="featured">Guides, resources, and tools for developers building on Pristine.</div>
 
 ## Getting started
 
-**If you’re new to developing with Jade, you’re in the right place.** These projects and repositories are written by the Jade community will introduce you to the basics of Jade and introduce core concepts that might be different from other API development you’re familiar with.
+**If you’re new to developing with Pristine, you’re in the right place.** These projects and repositories are written by the Pristine community will introduce you to the basics of Pristine and introduce core concepts that might be different from other development you’re familiar with.
 
-Need a more basic non-technical primer first? Check out [jade.builders/learn.](/learn/)
+Need a more basic non-technical primer first? Check out [pristine.builders/learn.](/learn/)
 
-## Jade Service Runner
+## Pristine
 
-Jade Service Runner is an opinionated JSON-RPC service manager, that provides daemonization, installation, and discovery for JSON-RPC based services.
+Pristine is an open source repository in its original condition.
 
-Service Runner helps developers gain access to a user’s locally run services. It provides users with a management and installation tooling, that allows developers to discover services and reliably request access to those services.
+- Apache 2.0
+- Default Github Issue Templates
+- Contributing Guidelines
+- [Conventional Commits](https://www.conventionalcommits.org/)
+- [Semantic Versioning](https://semver.org/)
+- Build & Release Specification
 
-- [etclabscore/jade-service-runner](https://github.com/etclabscore/jade-service-runner)
+- [etclabscore/pristine](https://github.com/etclabscore/pristine)
 
-## Jade Signer RPC
+## Pristine Typescript
 
-Jade Signer RPC lets users manage keys and sign transactions offline for any EVM-based blockchain.
+A starting point for open source software on top of pristine and typescript.
 
-Jade Signer RPC is an API to support the generation, import, and/or storing of Ethereum Private Keys. It uses the [Web3 Secret Storage Definition](https://github.com/ethereumproject/wiki/wiki/Web3-Secret-Storage-Definition) to store keys offline and optionally use [BIP39](https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki) to generate mnemonic phrases. This software has no access to outside nodes or APIs.
+- TSLint/TSConfig defaults
+- CircleCI Continous Deployment via [Semantic Release](https://github.com/semantic-release/semantic-release)
+    - Deploy typedoc documentation to github pages
+    - Publish to NPM
+    - Publish Github Release with auto generated changelog based on [Conventional Commits](https://www.conventionalcommits.org/)
 
-- [etclabscore/jade-signer-rpc](https://github.com/etclabscore/jade-signer-rpc)
 
-## Jade Explorer
+- [etclabscore/pristine-typescript](https://github.com/etclabscore/pristine-typescript)
 
-A block explorer for EVM-based blockchains.
+## Pristine Typescript React
 
-The explorer uses Jade Service Runner for managing background services (Multi-Geth), OpenRPC for underlying functionality, and Pristine.
+A Pristine starting point for typescript react projects
 
-- [etclabscore/jade-explorer](https://github.com/etclabscore/jade-explorer)
+- TSLint/TSConfig defaults
+- Hooks
+- CircleCI Continous Deployment via [Semantic Release](https://github.com/semantic-release/semantic-release)
+    - Deploy React App to github pages
+    - Publish Github Release with auto generated changelog based on [Conventional Commits](https://www.conventionalcommits.org/)
 
-## Specification
+- [etclabscore/pristine-typescript-react](https://github.com/etclabscore/pristine-typescript-react)
 
-The specification for Jade
+# Pristine Typescript React Jade
 
-[etclabscore/jade](https://github.com/etclabscore/jade)
+A Pristine starting point for typescript react projects ontop of the [Jade Suite](https://jade.builders)
+
+- Auto connect to [Jade Service Runner](https://github.com/etclabscore/jade-service-runner) to ensure `multi-geth` is running.
+- Hooks
+- CircleCI Continous Deployment via [Semantic Release](https://github.com/semantic-release/semantic-release)
+    - Deploy React App to github pages
+    - Publish Github Release with auto generated changelog based on [Conventional Commits](https://www.conventionalcommits.org/)
+
+- [etclabscore/pristine-typescript-react-jade](https://github.com/etclabscore/pristine-typescript-react-jade)
+
+
+# Pristine Typescript Electron Menubar
+
+This is a starting place for an electron menubar application based on typescript and pristine.
+
+- CircleCI Continous Deployment via [Semantic Release](https://github.com/semantic-release/semantic-release)
+    - Create builds on Each OS and publish them to Github Releases
+    - Publish Github Release with auto generated changelog based on [Conventional Commits](https://www.conventionalcommits.org/)
+
+- [etclabscore/pristine-typescript-electron-menubar](https://github.com/etclabscore/pristine-typescript-electron-menubar)
+
+
+# Pristine Typescript OpenRPC Server
+
+This is a pristine starting point to create an [OpenRPC](http://open-rpc.org) JSON-RPC server via [open-rpc/server-js](https://github.com/open-rpc/server-js.git)
+
+- Auto Generate API Clients from `openrpc.json`
+- Auto Generate Typescript Typings from `openrpc.json`
+- CircleCI Continous Deployment via [Semantic Release](https://github.com/semantic-release/semantic-release)
+    - Generate & Publish clients to npm & crates.io
+    - Deploy server to ElasticBeanstalk with minimal configuration
+    - Publish Github Release with auto generated changelog based on [Conventional Commits](https://www.conventionalcommits.org/)
+
+- [etclabscore/pristine-typescript-openrpc-server](https://github.com/etclabscore/pristine-typescript-openrpc-server)
 

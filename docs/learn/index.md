@@ -1,15 +1,18 @@
 ---
-title: Learn about Jade | Advanced links and articles on Jade
+title: Learn about Pristine | Advanced links and articles on Pristine
 lang: en-US
 sidebar: auto
 sidebarDepth: 0
 ---
 
-# Learn about Jade
+# Learn about Pristine
 
-**Welcome to [jade.builders/learn](/learn/), a set of resources to help you learn more about Jade.** This page includes technical **and** non-technical articles, guides, and resources. If you’re totally new to Jade, [we suggest you start here](/beginners/).
+**Welcome to [pristine.builders/learn](/learn/), a set of resources to help you learn more about Pristine.** This page includes technical **and** non-technical articles, guides, and resources. If you’re totally new to Pristine, [we suggest you start here](/beginners/).
 
-Here are some excellent starting points:
-- [Jade Service Runner - A Bridge for Decentralized Service Development](https://hackernoon.com/jade-service-runner-bd5ca222b7fc) *June 22, 2019 - Hackernoon*
-- [Jade Suite and Enabling Truly P2P Decentralized Applications](https://medium.com/etclabscore/ethereum-classic-jade-suite-are-enabling-truly-p2p-decentralized-applications-b4c9cbcdb91) *July 3, 2019 - ETC Labs Core*
-- [Up and Running with Jade Service Runner](https://www.youtube.com/watch?v=Y-Wdg1hgMls) *June 20, 2019 - Zane Starr*
+Here are some excellent starting points for some of the inspirations for Pristine:
+- [opensource.guide](https://opensource.guide/)
+- [Readme driven development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html) **August 23, 10 - Tom Preston-Werner**
+- [Hammock Driven Development](https://www.youtube.com/watch?v=f84n5oFoZBc) **December 16, 2012 - Rich Hickey**
+- [pengwynn/flint](https://github.com/pengwynn/flint)
+- [Choose A License](http://choosealicense.com/)
+- [Inversion and The Power of Avoiding Stupidity](https://fs.blog/2013/10/inversion/)
