@@ -1,5 +1,5 @@
 <h1 align="center" style="margin-top: 1em; margin-bottom: 3em;">
-  <p><a href="https://pristine.builders"><img alt="jade logo" src="https://raw.githubusercontent.com/etclabscore/jade-media-assets/master/jade-logo-light/jade-logo-light%20(PNG)/256x256.png" alt="pristine.builders" width="125"></a></p>
+  <p><a href="https://pristine.builders"><img alt="pristine logo" src="https://github.com/etclabscore/pristine-media-assets/blob/master/pristine-logo/pristine-logo%20(PNG)/256x256.png?raw=true" alt="pristine.builders" width="125"></a></p>
   <p>👋 Welcome to pristine.builders!</p>
 </h1>
 
@@ -12,7 +12,7 @@ If you’re interested in helping to improve [pristine.builders](https://pristin
 ### pristine.builders’s design and content is guided by three core principles:
 
 **🌏 1. pristine.builders is a portal to resources created by the community**
-  - It will never be "encyclopedia jade" - we can’t add every link, or cover every topic
+  - It will never be "encyclopedia Pristine" - we can’t add every link, or cover every topic
   - Rather, its purpose is to direct people to community-built resources
   - pristine.builders will always have minimal native-content
 
@@ -59,15 +59,13 @@ If you want to suggest changes to particular sub-pages, keep in mind the purpose
 - Because this page is very simple and does not contain much content, changes to the text will be limited.
 - Useful contributions include: suggesting better “beginner” content to link at the bottom of the page, or suggesting images that could be added to the page to break up the text.
 
-
-
 ## Development
 
 ### Windows
 - Download [node.js & npm](https://nodejs.org/en/download/)
 - Download [Git Bash](https://git-scm.com/downloads)
 - Download the `master` branch
-- Navigate to the `jade-website` folder
+- Navigate to the `pristine-website` folder
 - Right click and select `Git Bash Here`
 
 ### Unix/Mac

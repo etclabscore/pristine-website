@@ -13,7 +13,7 @@
         class="show-dark"
         width="auto"
         height="auto"
-        src="logo2"
+        src="https://github.com/etclabscore/pristine-media-assets/blob/master/pristine-logo/pristine-logo%20(PNG)/256x256.png?raw=true"
       />
     </div>
   </div>

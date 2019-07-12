@@ -53,7 +53,7 @@ A Pristine starting point for typescript react projects
 
 - [etclabscore/pristine-typescript-react](https://github.com/etclabscore/pristine-typescript-react)
 
-# Pristine Typescript React Jade
+## Pristine Typescript React Jade
 
 A Pristine starting point for typescript react projects ontop of the [Pristine Suite](https://pristine.builders)
 
@@ -66,7 +66,7 @@ A Pristine starting point for typescript react projects ontop of the [Pristine S
 - [etclabscore/pristine-typescript-react-jade](https://github.com/etclabscore/pristine-typescript-react-jade)
 
 
-# Pristine Typescript Electron Menubar
+## Pristine Typescript Electron Menubar
 
 This is a starting place for an electron menubar application based on typescript and pristine.
 
@@ -77,7 +77,7 @@ This is a starting place for an electron menubar application based on typescript
 - [etclabscore/pristine-typescript-electron-menubar](https://github.com/etclabscore/pristine-typescript-electron-menubar)
 
 
-# Pristine Typescript OpenRPC Server
+## Pristine Typescript OpenRPC Server
 
 This is a pristine starting point to create an [OpenRPC](http://open-rpc.org) JSON-RPC server via [open-rpc/server-js](https://github.com/open-rpc/server-js.git)
 
@@ -89,4 +89,3 @@ This is a pristine starting point to create an [OpenRPC](http://open-rpc.org) JS
     - Publish Github Release with auto generated changelog based on [Conventional Commits](https://www.conventionalcommits.org/)
 
 - [etclabscore/pristine-typescript-openrpc-server](https://github.com/etclabscore/pristine-typescript-openrpc-server)
-
