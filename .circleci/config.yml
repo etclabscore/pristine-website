@@ -65,7 +65,7 @@ jobs:
           command: sudo pip install awscli
       - run:
           name: Deploy to S3
-          command: aws s3 sync /tmp/jade/docs/.vuepress/dist/ s3://jade.builders/ --delete
+          command: aws s3 sync /tmp/jade/docs/.vuepress/dist/ s3://pristine.builders/ --delete
       - run:
           name: invalidate cloudfront
           command: aws cloudfront create-invalidation --distribution-id E2QNJ41LC76B31 --paths '/*'
