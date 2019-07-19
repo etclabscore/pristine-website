@@ -2,18 +2,18 @@
   <div class="hero relative content-block">
     <div class="hero-image">
       <img
-        alt="Ethereum.org Hero Image"
+        alt="Hero Image"
         class="hide-dark"
         width="auto"
         height="auto"
-        src="https://raw.githubusercontent.com/etclabscore/jade-media-assets/master/jade-logo-light/jade-logo-light%20(PNG)/256x256.png"
+        src="https://github.com/etclabscore/pristine-media-assets/blob/master/pristine-logo/pristine-logo%20(PNG)/256x256.png?raw=true"
       />
       <img
-        alt="Ethereum.org Hero Image - Dark"
+        alt="Hero Image - Dark"
         class="show-dark"
         width="auto"
         height="auto"
-        src="https://raw.githubusercontent.com/etclabscore/jade-media-assets/master/jade-logo-dark/jade-logo-dark%20(PNG)/256x256.png"
+        src="https://github.com/etclabscore/pristine-media-assets/blob/master/pristine-logo/pristine-logo%20(PNG)/256x256.png?raw=true"
       />
     </div>
   </div>
