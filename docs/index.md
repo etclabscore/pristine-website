@@ -1,5 +1,5 @@
 ---
-title: "pristine.builders | A suite of tools for peer-to-peer decentralized applications"
+title: "pristine.builders | Pristine is a starting point for Documentation Driven Development"
 date: May 20, 2019
 sidebar: false
 ---

@@ -15,7 +15,7 @@ module.exports = {
     ['meta', { property: 'og:type', content: 'website' }],
     ['meta', { property: 'og:title', content: 'Pristine' }],
     ['meta', { property: 'og:site_name', content: 'pristine.builders' }],
-    ['meta', { property: 'og:description', content: 'The Pristine Suite' }],
+    ['meta', { property: 'og:description', content: 'Pristine is a starting point and foundation for Documentation Driven Development' }],
     ['meta', { property: 'og:url', content: 'https://pristine.builders' }],
     ['meta', { property: 'og:image', content: 'https://github.com/etclabscore/pristine-media-assets/blob/master/pristine-logo/pristine-logo%20(PNG)/256x256.png?raw=true' }],
     ['script', { async: true, defer: true, src: 'https://cdn.jsdelivr.net/npm/@widgetbot/crate@3' },
