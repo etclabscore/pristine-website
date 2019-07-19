@@ -1,3 +1,12 @@
+## [1.0.1](https://github.com/etclabscore/pristine-website/compare/1.0.0...1.0.1) (2019-07-19)
+
+
+### Bug Fixes
+
+* update index.md title ([4249595](https://github.com/etclabscore/pristine-website/commit/4249595))
+* update og:description ([627b2f2](https://github.com/etclabscore/pristine-website/commit/627b2f2))
+* use dark logo in dark mode ([8e1259d](https://github.com/etclabscore/pristine-website/commit/8e1259d))
+
 # 1.0.0 (2019-07-19)
 
 
