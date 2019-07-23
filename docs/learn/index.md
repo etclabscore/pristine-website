@@ -9,6 +9,10 @@ sidebarDepth: 0
 
 **Welcome to [pristine.builders/learn](/learn/), a set of resources to help you learn more about Pristine.** This page includes technical **and** non-technical articles, guides, and resources. If you’re totally new to Pristine, [we suggest you start here](/beginners/).
 
+Here are some excellent starting points:
+
+- [Introduction to Pristine — An open standard and template for open-source projects](https://medium.com/etclabscore/ethereum-classic-introduction-to-pristine-an-open-standard-and-template-for-open-source-6c0afa757c98) **July 21, 2019 - ETC Labs Core**
+
 Here are some excellent starting points for some of the inspirations for Pristine:
 - [opensource.guide](https://opensource.guide/)
 - [Readme driven development](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html) **August 23, 2010 - Tom Preston-Werner**
