@@ -29,3 +29,9 @@ Using conventions, documentation and specifications within your project make it 
 - Want to get started using Pristine? [pristine.builders/use](/use/)
 - Curious to learn more about Pristine and its technology? [pristine.builders/learn](/learn/)
 - Are you a developer interested in building on Pristine? [pristine.builders/developers](/developers/)
+
+
+**Looking for more beginner resources about Pristine?**
+
+[Generate Pristine based Projects with the Pristine-CLI](https://www.youtube.com/watch?v=vdNJp2_gvTM)
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/vdNJp2_gvTM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
