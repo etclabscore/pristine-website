@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/etclabscore/pristine-website/compare/1.0.2...1.0.3) (2019-08-09)
+
+
+### Bug Fixes
+
+* add etclabscore article on intro to pristine ([0d09cd4](https://github.com/etclabscore/pristine-website/commit/0d09cd4))
+
 ## [1.0.2](https://github.com/etclabscore/pristine-website/compare/1.0.1...1.0.2) (2019-08-02)
 
 
